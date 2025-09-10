@@ -1,6 +1,6 @@
 # Blog- und Benutzerverwaltungssystem mit Laravel
 
-![Projekt-Screenshot](https://github.com/dein-benutzername/dein-repositoryname/blob/main/screenshot.png)
+![Projekt-Screenshot](https://github.com/ramazanozguven/15_Blog-und-Benutzerverwaltungssystem-mit-Laravel/blob/c7926d6bd2d5bd6e55095c0b8e4397d494132ae7/Screenschot%20des%20Projekts.png)
 
 Dieses Projekt ist ein Blog- und Benutzerverwaltungssystem, das mit dem **Laravel PHP Framework** entwickelt wurde. Es bietet sowohl für Standardbenutzer als auch für Administratoren unterschiedliche Funktionen und Verwaltungsbereiche.  
 
